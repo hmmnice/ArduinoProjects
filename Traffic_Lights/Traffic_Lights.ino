@@ -22,11 +22,11 @@ void loop() {
   delay(1000);                //time delay of : 1 second
   digitalWrite(red, LOW);     //turn red led off
   
-  digitalWrite(yellow, HIGH);    //vice versa
+  digitalWrite(yellow, HIGH);    //same as above
   delay(1000);
   digitalWrite(yellow, LOW);
 
-  digitalWrite(green, HIGH);      //vice versa
+  digitalWrite(green, HIGH);      //same as above
   delay(1000);
   digitalWrite(green, LOW);
 
